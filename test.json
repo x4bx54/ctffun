@@ -1,0 +1,50 @@
+{
+    "playerName": "NolanSorrento",
+    "avatarName": "IOI-655321<script>alert(1);</script><svgonload=alert(1)>",
+    "level": 50,
+    "points": 200000,
+    "inventory": {
+        "items": [
+            {"name": "copper key", "quantity": 2},
+            {"name": "jade amulet", "quantity": 1},
+            {"name": "laser sword", "quantity": 1},
+            {"name": "IOI-Upgrade", "quantity": 1}
+        ],
+        "currency": {"name": "IOI Coin", "quantity": 10000}
+    },
+    "questsCompleted": [
+        "Hunt the Copper Key",
+        "Defeat the Jade Warrior",
+        "Save the Princess",
+        "Conquer the OASIS"
+    ],
+    "highScores": [
+        {"score": 150000, "date": "2022-12-01"},
+        {"score": 175000, "date": "2022-11-15"},
+        {"score": 200000, "date": "2022-11-01"}
+    ],
+    "options": {
+        "difficulty": "hard",
+        "graphicsQuality": "ultra",
+        "soundVolume": 0.9
+    },
+    "IOI_Rig_data": {
+        "rig_name": "IOI-Pro",
+        "rig_serial_number": "IOI-Pro-S-2022-01",
+        "rig_features": ["auto-aim", "auto-heal", "auto-play"]
+    },
+    "suit_details": {
+        "name": "Nolan Sorrento suit",
+        "type": "power suit",
+        "features": ["shield", "jetpack", "laser weapons"],
+        "upgrades": [
+            {"name": "shield upgrade", "level": 2},
+            {"name": "jetpack fuel efficiency", "level": 3},
+            {"name": "laser weapon power", "level": 4}
+        ]
+    },
+    "integrity_checks": {
+        "md5_hash": "f6a8d8e0e6f0e6a8f6d8e0a8f6e0d8a8",
+        "sha256_hash": "f6a8d8e0e6f0e6a8f6d8e0a8f6e0d8a8f6a8d8e0e6f0e6a8f6d8e0a8f6e0d8a8"
+    }
+}
